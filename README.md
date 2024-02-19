@@ -39,12 +39,6 @@
     </a>
 </p>
 
-<p align="center" style='margin: 16px 4px 16px;'>
-    <a href="https://twitter.com/utkarshpathrabe" target="blank">
-        <img src="https://img.shields.io/twitter/follow/utkarshpathrabe?logo=twitter&style=for-the-badge" alt="twitter followers" />
-    </a>
-</p>
-
 <p align='center' style='font-size: 16px;'>
     ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
 </p>
