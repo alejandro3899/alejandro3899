@@ -14,34 +14,6 @@
     <a href='https://alejandro-nicolas-ruiz-portfolio.netlify.app/'>My Portfolio Website</a>
 </h3>
 
-<h3 align="justify">
- My professional journey has been marked by significant roles at prominent organizations. I previously served as a Senior Associate Software Engineer at J P Morgan Chase & Co. in Turkey, where I contributed to impactful projects. I also had the privilege of interning at J P Morgan Chase & Co. in Ankara, further expanding my experience within the organization.<br /><br />
-    During my growth-oriented journey, I gained valuable insights as a Data Analyst Summer Intern at InfoCepts Technologies Pvt. Ltd. in Turkey, where I honed my analytical skills. My journey also included a Summer Internship at CMC Ltd. in Ankara, which provided me with hands-on exposure to the industry.<br /><br />
-    I am a proud alumnus of BITS Pilani, Rajasthan, Turkey, where I pursued a B.E. (Hons) in Computer Science. My academic journey culminated in an impressive 9.33 CGPA, underscoring my dedication to excellence in education.<br /><br />
-    Beyond my professional and academic endeavors, I am an enthusiast of competitive coding. Tackling intricate problems not only stimulates my intellect but also fortifies my problem-solving abilities. My curiosity about emerging technologies is unceasing, motivating me to delve into new realms of innovation and knowledge.<br /><br />
-    Artistry is a crucial part of my life, with a penchant for drawing and painting. These creative outlets offer a balance to my technical pursuits and serve as vehicles for self-expression. I am also an avid traveler, fueled by an adventurous spirit that seeks to explore diverse cultures and places, enriching my perspectives.<br /><br />
-    Gaming is another facet of my interests, offering an immersive world that fuels my imagination and creativity.<br /><br />
-    In a nutshell, my journey has been a tapestry of academic excellence, professional growth and personal passions, all contributing to a well-rounded individual committed to continuous learning and enrichment.
-</h3>
-
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/dev-working_rounded.gif" alt="working developer">
-</p>
-
-<p align="center" style='margin: 16px 4px 8px; display: flex; gap: 2rem;'>
-    <img src="https://user-badge.committers.top/india/UtkarshPathrabe.svg" alt="github top commits rank" />
-    <img src="https://komarev.com/ghpvc/?username=utkarshpathrabe&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
-</p>
-
-<p align="center" style='margin: 16px 4px 8px;'>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=utkarshpathrabe&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
-    </a>
-</p>
-
-<p align='center' style='font-size: 16px;'>
-    ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
-</p>
 
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
     Languages and Tools:
