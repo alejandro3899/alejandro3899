@@ -244,4 +244,13 @@
 <p align="center" style='margin: 8px 4px;'>
     <img src="./assets/a-2.svg" alt="alejandro" />
 </p>
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
 
+<p align="center" style='margin: 8px 4px;'>
+    <img src="./assets/github-contribution-grid-snake-dark.svg" alt="
+    alejandro" />
+</p>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="./assets/sunrise.jpeg?sanitize=true" alt="alejandro" />
+</p>
