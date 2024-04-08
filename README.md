@@ -21,11 +21,14 @@
     <a href="https://gsap.com/" target="_blank" rel="noreferrer">
         <img src="https://asset.brandfetch.io/idpOtkzwVb/idhwaxj_le.jpeg?updated=1708617687664" alt="gsap" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
+    <a href="https://web3js.org/" target="_blank" rel="noreferrer">
+        <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" alt="web3js" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
     <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://solana.org/" target="_blank" rel="noreferrer">
-        <img src="https://solana.org/_next/static/media/logo.2e4a7507.svg" alt="solana" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=029" alt="solana" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
