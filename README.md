@@ -18,11 +18,20 @@
     <a href="https://threejs.org/" target="_blank" rel="noreferrer">
         <img src="https://seeklogo.com/images/T/three-js-logo-07A32307F1-seeklogo.com.png" alt="threejs" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
+    <a href="https://gsap.com/" target="_blank" rel="noreferrer">
+        <img src="https://asset.brandfetch.io/idpOtkzwVb/idhwaxj_le.jpeg?updated=1708617687664" alt="gsap" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
     <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
+    <a href="https://solana.org/" target="_blank" rel="noreferrer">
+        <img src="https://solana.org/_next/static/media/logo.2e4a7507.svg" alt="solana" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
@@ -74,9 +83,6 @@
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="eclipse-foundation" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
