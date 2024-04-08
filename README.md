@@ -9,7 +9,17 @@
 <h3 align='center' style='margin: 16px 4px;'>
     <a href='https://alejandro-profile.vercel.app/'>My Portfolio Website</a>
 </h3>
+<h3 align="justify">
+    I am a GSAP animation and Three.js developer and enjoy development new thing to contribute our world with my skills. <br/><br/>
+    Beyond my professional and academic endeavors, I am an enthusiast of competitive coding. Tackling intricate problems not only stimulates my intellect but also fortifies my problem-solving abilities. My curiosity about emerging technologies is unceasing, motivating me to delve into new realms of innovation and knowledge.<br /><br />
+    Artistry is a crucial part of my life, with a penchant for drawing and painting. These creative outlets offer a balance to my technical pursuits and serve as vehicles for self-expression. I am also an avid traveler, fueled by an adventurous spirit that seeks to explore diverse cultures and places, enriching my perspectives.<br /><br />
+    Gaming is another facet of my interests, offering an immersive world that fuels my imagination and creativity.<br /><br />
+    In a nutshell, my journey has been a tapestry of academic excellence, professional growth and personal passions, all contributing to a well-rounded individual committed to continuous learning and enrichment.
+</h3>
 
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="./assets/dev-working_rounded.gif" alt="working developer">
+</p>
 
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
     Languages and Tools:
