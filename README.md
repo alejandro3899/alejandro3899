@@ -237,4 +237,11 @@
 <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
     Stats
 </h3>
+<p align="center" style='margin: 8px 4px;'>
+    <img src="./assets/a-1.svg" alt="alejandro" />
+</p>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="./assets/a-2.svg" alt="alejandro" />
+</p>
 
